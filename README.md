@@ -2,7 +2,8 @@ Room To-Do Tasks
 =====================================
 Welcome to Mini-TODO Tasks, simple todo app to complete your tasks and filter completed tasks using room-database and MVVM Architecture.
 # preview
- 
+![FIRST!](MergedImages(1).png)
+![SECOND!](MergedImages(2).png)
 
 # Libraries and technologies used
 ### UI Layer
